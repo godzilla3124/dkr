@@ -1,0 +1,26 @@
+#pragma once
+Airplanes created
+Airplanes added to the airline
+Total capacity and cargo capacity calculated
+Airplanes sorted by flight range
+Airplanes with specific fuel consumption found
+Airplanes created
+Airplanes added to the airline
+Total capacity and cargo capacity calculated
+Airplanes sorted by flight range
+Airplanes with specific fuel consumption found
+Airplanes created
+Airplanes added to the airline
+Total capacity and cargo capacity calculated
+Airplanes sorted by flight range
+Airplanes with specific fuel consumption found
+Airplanes created
+Airplanes added to the airline
+Total capacity and cargo capacity calculated
+Airplanes sorted by flight range
+Airplanes with specific fuel consumption found
+Airplanes created
+Airplanes added to the airline
+Total capacity and cargo capacity calculated
+Airplanes sorted by flight range
+Airplanes with specific fuel consumption found
